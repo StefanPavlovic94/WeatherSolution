@@ -9,8 +9,21 @@ You can see weather info in form of "5-day cards", charts and weather map with i
 
 ------------------------------------------  How to set up Weather solution: ---------------------------------------------------
 
-1.  Weather solution have users that are manipulated throught database with Entity framework so create database with table Accounts
-  in which fields must be named like Account class parameters.
+1.  Weather solution have users that are manipulated throught database with Entity framework so create database AccountsContext with table Accounts in which fields must be named like Account class parameters.
+
+How table should look like:
+---------------------------------------
+    [Id]       NVARCHAR (50) NOT NULL,
+    [Name]     NVARCHAR (30) NOT NULL,
+    [Lastname] NVARCHAR (30) NOT NULL,
+    [Age]      INT           NOT NULL,
+    [Email]    NVARCHAR (40) NOT NULL,
+    [Username] NVARCHAR (30) NOT NULL,
+    [Password] NVARCHAR (50) NOT NULL,
+    [Status]   INT           NOT NULL,
+    
+    where Id is primary key
+----------------------------------------
 
 2.  Configure ApplicationConfiguration class:
   -Paste connection string in Aplication configuration class in function Initialize(){connectionString = "your connection string";
