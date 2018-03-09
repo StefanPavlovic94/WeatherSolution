@@ -28,10 +28,9 @@ namespace WeatherApp.Controllers
             
             ApplicationConfiguration configuration = new ApplicationConfiguration();
             configuration.Load();
-            configuration.Location = cityName;
             try
             {
-                IRestResponse response = OpenWeatherAPI.Get(configuration.BaseAddressAPI, configuration.Location, configuration.Query, configuration.APIKey);
+                IRestResponse response = OpenWeatherAPI.Get(configuration.BaseAddressAPI, cityName, configuration.Query, configuration.APIKey);
                 if (response.StatusCode == System.Net.HttpStatusCode.OK)
                 {
                     ContentResult content = new ContentResult();
