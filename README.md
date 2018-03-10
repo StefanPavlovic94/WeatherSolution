@@ -26,8 +26,10 @@ How table should look like:
 ----------------------------------------
 
 2.  Configure ApplicationConfiguration class:
-  -Paste connection string in Aplication configuration class in function Initialize(){connectionString = "your connection string";
-  -Paste your Email/Password combination that will App use for sending confirmation emails.
+  Paste connection string:
+    -in Aplication configuration class in function Initialize(){connectionString = "your connection string";
+  Paste your Email/Password combination 
+    -app will use this email service for sending confirmation emails.
 
 
 ----------------------------------------------------- Informations ------------------------------------------------------------
