@@ -104,7 +104,7 @@ namespace WeatherApp.Controllers
                 }
                 else
                 {
-                    return RedirectToAction("EmailConfirmation", "Accounts");
+                    return RedirectToAction("UserDontExist", "Accounts");
                 }
             }
             catch (Exception ex) {
@@ -120,6 +120,11 @@ namespace WeatherApp.Controllers
 
         [HttpGet]
         public ActionResult Error() {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult UserDontExist() {
             return View();
         }
     }

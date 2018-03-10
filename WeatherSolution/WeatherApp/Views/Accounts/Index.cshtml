@@ -25,7 +25,7 @@
         <div>
             <h5>Password</h5>
             <div>
-                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @required = "required", @placeholder = "Password" } })
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @required = "required", @placeholder = "Password", @Id= "passInput" } })
                 @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
             </div>
         </div>

@@ -29,3 +29,21 @@ C:\Users\Stefan Pavlovic\source\repos\WeatherSolution\WeatherAPI\obj\Debug\Weath
 C:\Users\Stefan Pavlovic\source\repos\WeatherSolution\WeatherAPI\obj\Debug\WeatherSolutionAPILib.csproj.CoreCompileInputs.cache
 C:\Users\Stefan Pavlovic\source\repos\WeatherSolution\WeatherAPI\obj\Debug\WeatherAPI.dll
 C:\Users\Stefan Pavlovic\source\repos\WeatherSolution\WeatherAPI\obj\Debug\WeatherAPI.pdb
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\WeatherAPI.dll.config
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\WeatherAPI.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\WeatherAPI.pdb
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\EntityFramework.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\Json.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\Newtonsoft.Json.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\RestSharp.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\System.ValueTuple.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\EntityFramework.xml
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\Json.pdb
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\Newtonsoft.Json.xml
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\bin\Debug\System.ValueTuple.xml
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\obj\Debug\WeatherSolutionAPILib.csprojResolveAssemblyReference.cache
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\obj\Debug\WeatherSolutionAPILib.csproj.CoreCompileInputs.cache
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\obj\Debug\WeatherAPI.dll
+E:\Git\WeatherSolution\WeatherSolution\WeatherSolution\WeatherAPI\obj\Debug\WeatherAPI.pdb

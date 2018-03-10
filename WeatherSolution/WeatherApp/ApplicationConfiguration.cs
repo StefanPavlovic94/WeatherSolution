@@ -25,8 +25,8 @@ namespace WeatherApp
             this.Query = "&mode=json&units=metric&APPID=";
             this.APIKey = "d49c3a5910fdc77e3a554cd0cd11681d";
             this.ConnectionString = "ConnectionString";
-            this.AppsEmail = "Email that app will use for sending confirmation mail";
-            this.AppsMailPassword = "E-mail service password";
+            this.AppsEmail = "Email that app use for sending confirmation emails";
+            this.AppsMailPassword = "Password for that email service";
             this.Save();
         }
 
